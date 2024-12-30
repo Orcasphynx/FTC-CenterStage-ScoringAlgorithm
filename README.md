@@ -5,3 +5,5 @@ Keep in mind the pixel's are hexagonal, allowing for six neighbors at most, and 
 
 For scoring, the color of the pixel by itself does not matter (at least in the teleop period), but if it is in a group of three pixels of the same color or of all different colors, it is in a "mosaic" that earns additional points. 
 
+I will periodically update it for fun as it would be a shame to leave this mass of code to rot.
+
