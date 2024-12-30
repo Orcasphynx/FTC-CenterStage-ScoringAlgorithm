@@ -1,5 +1,5 @@
 # FTC-CenterStage-ScoringAlgorithm
-A scoring algorithm I made a few years ago for the CenterStage FTC season. It is supposed to determine the optimal place for a "pixel" on the "backdrop" based on that pixel's color and the current setup of the "backdrop." I did not get to test it during the season as we had trouble with the cameras. 
+A scoring algorithm I made in 2023 for the CenterStage FTC season. It is supposed to determine the optimal place for a "pixel" on the "backdrop" based on that pixel's color and the current setup of the "backdrop." I did not get to test it during the season as we had trouble with the cameras. 
 
 Keep in mind the pixel's are hexagonal, allowing for six neighbors at most, and pixels can only be stacked in the backdrop in an alternating fashion of "short rows" and "long rows," with the short rows allowing for one less pixel than the long rows. 
 
